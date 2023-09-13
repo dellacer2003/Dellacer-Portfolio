@@ -1,0 +1,1 @@
+Unfortunately, relating files to this dashboard is eliminated. The only thing that remains is a dashboard that I published on the Power BI web platform. This PDF is exported from the dashboard.
